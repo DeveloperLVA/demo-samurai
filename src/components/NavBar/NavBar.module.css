@@ -1,0 +1,80 @@
+.nav {
+    grid-area: n;
+    background-color: burlywood;
+    padding: 20px;
+  }
+  
+  .item a {
+      color: white;
+      text-decoration: none;
+
+  }
+
+  .item .activeLink {
+      color: gold;
+  }
+
+
+/* сайт бар - Друзья */
+
+/* контейнер для 3х... колонок с кружками-друзьями  */
+.friendsKolum {
+    display: grid;
+    grid-template-columns: repeat(3, 2fr);
+}
+
+
+/*общий контейнер для СайтБара */
+.friends {
+    /* grid-area: n;*/
+    /* background-color: burlywood;*/
+    padding-top: 40px;
+    /*text-align: left;*/
+    color: white;
+   /* font-size: 24px;*/
+}
+
+.Frie {
+        padding-top: 40px;
+        text-align: left;
+        color: white;
+        font-size: 24px;
+        text-align: left;
+    }
+
+.cirkleFrend .activeLink   {
+    color: gold;
+    text-decoration: none;
+    font-size: 12px;
+    padding-right: 5px;
+    text-align: center;
+    vertical-align:top;
+}
+
+.cirkleFrend  a {
+    color: white;
+    text-decoration: none;
+    font-size: 12px;
+    padding-right: 5px;
+    vertical-align:top;
+    text-align: center;
+}
+
+/* кружки - нач */
+.cirColor    {
+    width: 2em; /* поддерживаются любые единицы, в том числе проценты */
+    height: 2em;
+    margin: 1em auto;
+    background: #FFC92C;
+    border-radius: 50%;
+}
+/*.cirColor ::before {
+    content: "";
+    display: inline-block;
+    vertical-align: middle;
+    padding-top: 100%;
+}*/
+
+/* кружки - кон */
+
+/* конец сайт бар - Друзья */

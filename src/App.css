@@ -1,0 +1,40 @@
+.app-wrapper {
+    display: grid;
+    width: 1200px;
+    margin: 0 auto;
+
+    grid-template-areas:
+"h h"
+"n c";
+
+    grid-template-rows: 60px 1fr;
+    grid-template-columns: 2fr 10fr;
+    grid-gap: 0px;
+
+}
+
+.app-wrapper-content {
+    grid-area: c;
+    background-color: cornflowerblue;
+    }
+
+
+/* размеры логотипов соцюсетей */
+.LVA_user {
+    width:98%;
+    padding-bottom: 50px;
+ }
+
+.LVA_logo_soc {
+    float:left;
+    height: 30px;
+    width: 30px;
+    padding-top: 10px;
+    padding-right: 20px;
+   }
+
+.LVA_user_data {
+    float:left;
+    padding-top: 20px;
+    padding-right: 20px;
+   }
