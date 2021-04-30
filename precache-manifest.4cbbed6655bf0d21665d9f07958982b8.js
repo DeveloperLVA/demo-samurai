@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "30b65c515ce7dcdea6699032b792aeb7",
+    "revision": "9cc9c88b8c7ed06c5bb08d0e68dea638",
     "url": "/demo-samurai/index.html"
   },
   {
-    "revision": "72cf1a3f8b252341eb5d",
+    "revision": "dfca68290dd6bb55d538",
     "url": "/demo-samurai/static/css/3.b27e7ae3.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/demo-samurai/static/js/2.b5544458.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "72cf1a3f8b252341eb5d",
-    "url": "/demo-samurai/static/js/3.71bbeda9.chunk.js"
+    "revision": "dfca68290dd6bb55d538",
+    "url": "/demo-samurai/static/js/3.0db63019.chunk.js"
   },
   {
     "revision": "5ce45766659c79902d15",
@@ -32,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/demo-samurai/static/js/main.4ebb50bc.chunk.js"
   },
   {
-    "revision": "b09ec432244942044a40",
-    "url": "/demo-samurai/static/js/runtime-main.9b882d1f.js"
+    "revision": "d3fddadb9b412dbe40ef",
+    "url": "/demo-samurai/static/js/runtime-main.7887af41.js"
   },
   {
     "revision": "e9b43964e5fae7d7a033a1d65887520c",
